@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         // Hei olen Tulostin-ohjelma
         double luku1 = 10; 
-        double luku2 = 30;
+        double luku2 = 35;
         double tulo = luku1 * luku2;
         double erotus = luku1 - luku2;
         double summa = luku1 + luku2;
