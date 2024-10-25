@@ -15,7 +15,7 @@ public class App {
         System.out.println(tekija);
         System.out.println("luku1-muuttujan arvo on " + luku1);
         System.out.println("luku2-muuttujan arvo on " + luku2);
-        System.out.println(luku1 + " * " + luku2 + " = " + tulo);
+        System.out.println(luku1 + " * " + luku2 + " * " + luku3 +" = "+ tulo);
         System.out.println("luku1-muuttujan arvo on " + luku1);
         System.out.println("luku2-muuttujan arvo on " + luku2);
         System.out.println(luku1 + " * " + luku2 + " = " + jako);
