@@ -4,9 +4,9 @@ public class App {
         double luku1 = 10; 
         double luku2 = 35;
         double luku3 = 15;
-        double tulo = luku1 * luku2;
-        double erotus = luku1 - luku2;
-        double summa = luku1 + luku2;
+        double tulo = luku1 * luku2 *luku3;
+        double erotus = luku1 - luku2 - luku3;
+        double summa = luku1 + luku2 + luku3;
         double jako = luku1 / luku2;
         System.out.println("Hei olen Tulostin-ohjelma");
         String tekija;
